@@ -1,1 +1,8 @@
 config.py
+
+# Archivos útiles para el análisis
+LOGS
+CSVS
+CHATGPT_RESPONSES
+JOBS_DESCRIPTIONS
+JSONS
